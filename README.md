@@ -1,5 +1,8 @@
 # datasets
-A repository containing various public datasets
+
+## [gcp-questions.csv](https://github.com/moralescastillo/datasets/blob/main/gcp-questions.csv)
+
+A sample of questions about GCP, used as a study-guide for Google's Associate Cloud Engineer Certification. More on the topic on this [blog post](https://paulomoralescastillo.com/blog/2022/04/22/gcp-certificate-questions.html).
 
 ## [austria-postal-district.csv](https://github.com/moralescastillo/datasets/blob/main/austria-postal-district.csv)
 
