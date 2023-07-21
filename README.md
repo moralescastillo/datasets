@@ -11,3 +11,8 @@ A mapping from Austrian 4-digit postal codes to Austrian 3-digit district codes.
 ## [plz-5stellig-berlin.geojson](https://github.com/moralescastillo/datasets/blob/main/plz-5stellig-berlin.geojson)
 
 Berlin's GeoJson file containing coordinates, names and population of all zip codes in Berlin. A modified version of Germany's GeoJson file, as found on [suche-postleitzahl.org](https://www.suche-postleitzahl.org/plz-karte-erstellen). Last updated on 2020-11-07.
+
+
+## [postal-code-germany.csv](https://github.com/moralescastillo/datasets/blob/main/postal-code-germany.csv)
+
+A mapping of postal codes to city, federal state, latitude and longitude in Germany. Last updated on 2023-07-21.
