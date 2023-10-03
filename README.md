@@ -1,5 +1,10 @@
 # datasets
 
+
+### [1974_2023_results.csv](https://github.com/moralescastillo/datasets/blob/main/1974_2023_results.csv)
+
+Berlin Marathon results for the years 1974-2023 for runners. It combines results from 2021-2023 with the already gathered data from 1974-2019 from [Kaggle](https://www.kaggle.com/datasets/aiaiaidavid/berlin-marathons-data).
+
 ### [austria-postal-district.csv](https://github.com/moralescastillo/datasets/blob/main/austria-postal-district.csv)
 
 A mapping from Austrian 4-digit postal codes to Austrian 3-digit district codes. More on the topic on this [blog post](https://paulomoralescastillo.com/blog/2022/04/12/mapping-postal-district.html).
